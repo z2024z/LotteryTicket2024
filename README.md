@@ -1,2 +1,2 @@
 # LotteryTicket2024
-If life
+This is a node.js project.
